@@ -1,0 +1,4 @@
+This contains all notebooks used in generating the wheel data point for the figure comparing ER-random network stuctures to the wheel structure. 
+If you wish to investigate additional network structures, 'wheel' in the notebooks can be replace with 'errandom', 'cycle', 'complete', or 'clique'.
+To investigate the base model set memshare and memstore to 0.
+To adjust the probability of exploration, change the explprob variable.
