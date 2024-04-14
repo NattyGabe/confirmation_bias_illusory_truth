@@ -1,3 +1,4 @@
+IMPORTANT: the ill_confirm_bias_FNs_03_t0FAST_03cnt_vdisc_explore_prob.py file must be in the same directory as the .ipynb notebook files for them to run.
 This contains all notebooks used in generating the wheel data point for the figure comparing ER-random network stuctures to the wheel structure. 
 If you wish to investigate additional network structures, 'wheel' in the notebooks can be replace with 'errandom', 'cycle', 'complete', or 'clique'.
 To investigate the base model set memshare and memstore to 0.
