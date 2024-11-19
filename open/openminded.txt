@@ -1,0 +1,1 @@
+This is code and a figure for the model with half of memory reserved for each arm. I couldn't find the notebook that produced this particular graph, but the code should be functional.
