@@ -1,0 +1,1 @@
+This is code and a figure for the version of the model in which half of agents memory was reserved for each arm. I couldn't find the notebook that matches the figure, but the code should be functional.
